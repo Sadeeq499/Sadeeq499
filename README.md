@@ -55,6 +55,5 @@ I am a passionate **Software Engineer** from Pakistan with over **5 years of exp
 ### 📫 Let's Connect!
 - **Portfolio:** [sadeeqdev.tech](https://www.sadeeqdev.tech/)
 - **Email:** [muhammadsadeeq11223@gmail.com](mailto:muhammadsadeeq11223@gmail.com)
-- **LinkedIn:** [Your LinkedIn Link Here]
 
 *"Turning complex problems into elegant, functional code."*
