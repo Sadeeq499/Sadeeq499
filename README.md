@@ -1,7 +1,74 @@
 <div align="center">
-  <img src="https://github.com/Sadeeq499.png" width="120" style="border-radius: 50%; margin-bottom: 20px;" />
+<img src="https://www.google.com/search?q=https://github.com/Sadeeq499.png" width="150" style="border-radius: 50%; border: 2px solid #30363d; margin-bottom: 20px;" />
 </div>
 
-| | |
-|:---|:---|
-| ```csharp <br>public enum PLATEFORMES() { <br>  Windows, <br>  Linux, <br>  Mobile <br>} <br><br>public enum LANGAGES() { <br>  C#, C++, C, <br>  Python, Bash, LUA, <br>  Java, HTML5, CSS, <br>  JavaScript <br>} <br><br>public enum LOGICIELS() { <br>  Unity3D, <br>  UnrealEngine, <br>  Godot4, VisualStudio, <br>  Jetbrains, PhotoShop, <br>  GoogleSuite, Blender, <br>  AdobePremier, <br>  AdobeSubstancePainter, <br>  AdobeSubstance3D <br>} <br><br>public enum MÉDIA() { <br>  itch.io, <br>  LinkedIn, <br>  GitHub <br>} <br>``` | ```csharp <br>/// <summary> <br>/// Full Stack Developer specializing in the MERN stack. <br>/// Experienced in building scalable web platforms and GS1 standards. <br>/// Open to innovative projects and AI/ML collaborations. <br>/// </summary> <br><br>public class INFORMATION { <br>  public string NOM = "Muhammad Sadeeq"; <br>  public string TITRE = "Full Stack Web Developer"; <br>  public string EMAIL = "sadeeq499@example.com"; <br>  public int ÂGE = 21; <br>  public bool PERMIS_VÉHICULÉ = true; <br>} <br><br>public static class EXPÉRIENCES { <br>  public void GS1_Project() { <br>    var _Type = "Member Registration Portal"; <br>    var _Focus = ["Barcode Logic", "National Address API"]; <br>  } <br><br>  public void Real_Estate_Project() { <br>    var _Name = "Sue-Realty"; <br>    var _Tech = "MERN Stack"; <br>  } <br>} <br><br>public class CURRENT_LEARNING { <br>  public string FOCUS = "AI & Machine Learning"; <br>  public string GOAL = "30-Day Intensive Mastery"; <br>} <br>``` |
+/// <summary>
+/// Full Stack Developer specializing in the MERN stack.
+/// Experienced in building scalable web platforms and GS1 standards.
+/// 4 years of coding passion. Available for innovative collaborations.
+/// </summary>
+
+public class INFORMATION 
+{
+    public string NOM = "Muhammad Sadeeq";
+    public string TITRE = "Full Stack Web Developer";
+    public string EMAIL = "sadeeq499@gmail.com";
+    public string LOCATION = "Peshawar, Pakistan";
+    public bool PERMIS_VÉHICULÉ = true;
+    public int ÂGE = 21;
+}
+
+public enum TECH_STACK() 
+{
+    React_JS,
+    Next_JS,
+    Node_JS,
+    Express_JS,
+    MongoDB,
+    SQL,
+    Tailwind_CSS,
+    Redux_Toolkit
+}
+
+public enum TOOLS() 
+{
+    VS_Code,
+    Git_GitHub,
+    Postman,
+    Figma,
+    Nginx,
+    Docker
+}
+
+public static class EXPÉRIENCES 
+{
+    public void GS1_Saudi_Arabia() 
+    {
+        var _Duration = "Sept 2023 - Present";
+        var _Role = "Full Stack Developer";
+        var _Project = "Member Registration Portal (GS1 Standards)";
+        /* Developed high-performance registration flows, 
+           integrating National Address APIs and Barcode logic. */
+    }
+
+    public void Sue_Realty() 
+    {
+        var _Type = "Real Estate Management System";
+        var _Tech = "MERN Stack";
+        /* Built a multi-tenant franchise system with 
+           complex seller/buyer dashboards. */
+    }
+}
+
+public enum MÉDIA() 
+{
+    LinkedIn = "[linkedin.com/in/muhammad-sadeeq-767b88277](https://linkedin.com/in/muhammad-sadeeq-767b88277)",
+    Twitter = "@Oyee___SaQi",
+    Portfolio = "sadeeqdev.tech"
+}
+
+public class GOALS() 
+{
+    public string CURRENT = "AI & Machine Learning Integration";
+    public string STATUS = "30-Day Intensive Mastery";
+}
